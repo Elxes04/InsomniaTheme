@@ -15,34 +15,34 @@
             "#3d85c6"
         ],
         "TEXT_NORMAL": [
-            "#0b5394"
-        ],
-        "TEXT_MUTED": [
-            "#053764"
-        ],
-        "TEXT_DANGER": [
-            "#011c35"
-        ],
-        "TEXT_LINK": [
-            "#8dc1f0"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#a1a1a1"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#DCDDDE"
-        ],
-        "INTERACTIVE_ACTIVE": [
             "#ffffff"
         ],
+        "TEXT_MUTED": [
+            "#cdcccc"
+        ],
+        "TEXT_DANGER": [
+            "#989898"
+        ],
+        "TEXT_LINK": [
+            "#82bef5"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#82bef5"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#427cb0"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#3b8dd6"
+        ],
         "INTERACTIVE_MUTED": [
-            "#919191"
+            "#2a577f"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#b60abf"
+            "#3d85c6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -51,7 +51,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#b60abf"
+            "#3d85c6"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -72,10 +72,10 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#595959"
+            "#10497d"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#3d3d3d"
+            "#10497d"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#696969"
@@ -96,10 +96,10 @@
             "#e1e1e1"
         ],
         "CHANNEL_ICON": [
-            "#bfbfbf"
+            "#3d85c6"
         ],
         "CHANNELS_DEFAULT": [
-            "#bfbfbf"
+            "#3d85c6"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -131,11 +131,11 @@
         "GREEN_345": "#000000",
         "BLUE_345": "#000000",
         "WHITE_500": "#ffffff"
-       
+
     },
   "background": {
     "blur": 0.30,
-    "url": "https://media.discordapp.net/attachments/1124849420857528380/1124898874482507886/ONc6tDyX.jpg",
+    "url": "https://media.discordapp.net/attachments/1124920725346730036/1124920776429150318/3d-spleteniya-soedineniya-linii-perepletenie-sinii-101790.jpeg?width=693&height=490",
     "alpha": 0.42
   },
     "spec": 2
